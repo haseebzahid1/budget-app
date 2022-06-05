@@ -10,7 +10,7 @@ const AddTransaction = () => {
                         name="incomeText"
                         // value={incomeText}
                         placeholder="Add Income..."
-                        // autoComplete="off"
+                        autoComplete="off"
                         // onChange={onChangeIncome}
                     />
                     <input
@@ -18,7 +18,7 @@ const AddTransaction = () => {
                         name="incomeAmount"
                         // value={incomeAmount}
                         placeholder="Amount"
-                        // autoComplete="off"
+                        autoComplete="off"
                         // onChange={onChangeIncome}
                     />
                     <input type="submit" value="Submit" />
@@ -31,7 +31,7 @@ const AddTransaction = () => {
                         name="expenseText"
                         // value={expenseText}
                         placeholder="Add Expense..."
-                        // autoComplete="off"
+                        autoComplete="off"
                         // onChange={onChangeExpense}
                     />
                     <input
@@ -39,7 +39,7 @@ const AddTransaction = () => {
                         name="expenseAmount"
                         // value={expenseAmount}
                         // placeholder="Amount"
-                        // autoComplete="off"
+                        autoComplete="off"
                         // onChange={onChangeExpense}
                     />
                     <input type="submit" value="Submit" />
